@@ -1,0 +1,9 @@
+{
+	"name": "TrendytechADFProject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3bd8b9ea-f15e-4dfe-93f6-0cc8f22b492b",
+		"tenantId": "1ef73e00-b8cb-4e3b-aaa2-3dbcf67ba69c"
+	}
+}
